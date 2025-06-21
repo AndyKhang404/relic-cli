@@ -1,2 +1,2 @@
 # relic-cli
-A CLI tool to download torrents
+A Rust CLI tool to download torrents
